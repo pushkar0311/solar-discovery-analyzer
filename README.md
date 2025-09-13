@@ -31,11 +31,6 @@ Built with **Python, Streamlit, and Random Forest** to make solar exploration in
 
 ---
 
-## 📸 Screenshots
-*(Add screenshots of your Streamlit app output here – analysis tables, anomaly plots, etc.)*
-
----
-
 ## ⚡ How to Run
 ```bash
 # Clone the repo
